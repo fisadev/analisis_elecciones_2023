@@ -2,4 +2,4 @@
 
 Un poco de análisis de los resultados de las elecciones presidenciales de Argentina en el 2023.
 
-Visibles por web acá: https://github.com/fisadev/analisis_elecciones_2023/blob/main/analisis.ipynb
+Visibles por web acá: https://nbviewer.org/github/fisadev/analisis_elecciones_2023/blob/main/analisis.ipynb
